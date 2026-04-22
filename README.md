@@ -104,6 +104,12 @@ README.md
 - Data persists across sessions  
 
 ---
+## 🎥 Demo
+
+Watch the full working demo here:
+👉 https://drive.google.com/file/d/1HNDPAX5QU_kg-r6zh_QI7PEWjYh6XNPi/view?usp=sharing
+
+---
 
 ## 🎯 Why This Project Matters
 
