@@ -41,7 +41,7 @@ Association	ClaimRequest links User ↔ Item
 
 🔑 Default Login
 Role	Email	                Password
-Admin	admin@university.edu  admin123
+Admin	admin@university.edu    admin123
 	
 📁 Project Structure
 src/
